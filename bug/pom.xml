@@ -54,7 +54,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-                    <maimClass>cn.cmccgs.xyw.bugtracker.BugTrackerApplication</maimClass>
+                    <mainClass>cn.cmccgs.xyw.bugtracker.BugTrackerApplication</mainClass>
                 </configuration>
 			</plugin>
 		</plugins>
